@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel TheOneMemory</#></b>
+<@center><b><#selectbg_g>Kernel Aphrodite</#></b>
 
 <b><#selectbg_g>Tentang Varian Kernel :</#></b></@>
 
