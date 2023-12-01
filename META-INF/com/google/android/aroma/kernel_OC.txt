@@ -1,14 +1,14 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>TheOneMemory Kernel</#></b>
+<@center><b><#selectbg_g>Aphrodite Kernel</#></b>
 
-<b><#selectbg_g>About Overclocked Kernel :</#></b></@>
+<b><#selectbg_g>About Overclocked Kernel:</#></b></@>
 
 <@fill><q>
 <b>
 Overclocked Kernels actually is safe if u're using it 
-with carefully . But still use it with ur 
-own risk :) .
+with carefully. But still use it with ur 
+own risk :)
 </b>
 
 <b>NOTE:
@@ -20,19 +20,19 @@ own risk :) .
 
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel TheOneMemory</#></b>
+<@center><b><#selectbg_g>Kernel Aphrodite</#></b>
 
-<b><#selectbg_g>Tentang Kernel yang diOverclock :</#></b></@>
+<b><#selectbg_g>Tentang Kernel yang di-Overclock:</#></b></@>
 
 <@fill><q>
 <b>
-Kernel yang diOverclock itu sebenarnya aman
-apabila agan menggunakannya dengan hati-hati .
-Tapi tetap Resiko ditanggung Pemenang :) .
+Kernel yang di-Overclock itu sebenarnya aman
+apabila agan menggunakannya dengan hati-hati.
+Tapi tetap Resiko ditanggung Pemenang :)
 </b>
 
 <b>NOTE:
-* Disarankan menggunakan kernel ini dengan spectrum, 
+* Disarankan menggunakan kernel ini dengan spectrum. 
   Ini akan menjadi opsi terbaik.
 </b>
 
