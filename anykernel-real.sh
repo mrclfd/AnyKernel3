@@ -7,7 +7,7 @@ properties() { '
 kernel.string=ExampleKernel by osm0sis @ xda-developers
 kernel.for=KernelForDriver
 kernel.compiler=SDPG
-kernel.made=dotkit @fakedotkit
+kernel.made=raπ
 kernel.version=44xxx
 kernel.type=xxx
 message.word=blablabla
